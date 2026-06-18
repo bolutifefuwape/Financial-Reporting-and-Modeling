@@ -1,23 +1,44 @@
-# G1 Ontario Exam Prep: 14-Day Study Plan & Practice Quiz
+# Hi, I'm Bolutife Fuwape
 
-An interactive web app that helps people prepare for Ontario's G1 driver's licence knowledge test, structured around a 14-day study plan with an integrated practice quiz.
+MBA (Finance & Strategy) graduate from Ivey Business School with experience in:
 
-## Why I Built It
+- Business Analysis
+- Digital Transformation
+- Banking Operations
+- AI Strategy
+- Process Improvement
+- Power BI
 
-I needed to study for and pass the G1 exam myself ahead of a test at the London DriveTest Centre. Most prep resources available were either static PDFs or paid apps with no real structure — so I used it as an opportunity to design the prep experience I actually wanted: a paced 14-day plan rather than a wall of practice questions, with a quiz built in to check retention along the way.
+Current interests:
 
-## How I Built It
+- FinTech
+- AI-enabled Transformation
+- Product Operations
+- Financial Services Innovation
 
-Built as a Claude artifact, using prompt engineering to define the study plan structure, quiz logic, and interactive behavior — directing an AI tool to ship a working, usable product rather than using it to draft static content. This reflects a skill that's increasingly relevant alongside traditional analysis and process work: knowing how to specify and iterate on a build through prompting to get a real, functioning result.
+LinkedIn: linkedin.com/in/bolutife-fuwape
 
-## Try It
+I also maintain a separate [AI-built product portfolio](https://github.com/bolutifefuwape/ai-product-builds), showcasing prompt engineering and AI-assisted development on tools I've designed and shipped.
 
-[Live interactive version](https://claude.ai/public/artifacts/afab8fe8-12a3-40f3-81cf-24458e2a01c3)
+## About This Repository
 
-## Status
+A portfolio of financial analysis, reporting, and process transformation case studies, covering ratio analysis, dashboards, stakeholder alignment, and data-driven business recommendations.
 
-Live and in active use by people studying for the G1 exam.
+## Projects
 
-## Tools & Skills
+| # | Project | Focus | Tools |
+|---|---------|-------|-------|
+| 01 | [BlueWave Logistics – Financial Analysis & Reporting](BlueWaveImages) | Profitability, liquidity, efficiency & solvency analysis for a regional logistics company evaluating a green logistics investment | Excel, Power BI |
+| 02 | [Digital Loan Application Transformation – GIDI Bank](02-gidi-bank-digital-loan-transformation) | Process redesign, MoSCoW-prioritized requirements, RACI, change management, and ROI business case for a digital loan approval platform | PowerPoint |
 
-Prompt Engineering, AI-Assisted Development, Claude (Anthropic), Instructional Design, Interactive Web App Design
+*(More case studies will be added here as they're completed.)*
+
+## Skills Demonstrated
+
+- Financial statement analysis (Income Statement, Balance Sheet, Cash Flow Statement)
+- Ratio analysis: profitability, liquidity, efficiency, and solvency
+- Trend and variance analysis (year-over-year)
+- Dashboard design and data visualization (Excel, Power BI)
+- Business process redesign and requirements prioritization (MoSCoW)
+- Stakeholder management, RACI, and change management
+- Translating financial and operational findings into actionable business recommendations
