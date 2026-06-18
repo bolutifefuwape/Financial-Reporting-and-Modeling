@@ -34,7 +34,7 @@ Digitizing the process only works if people actually adopt it, so change managem
 
 ## Files in This Project
 
-- `GIDI_Bank_Digital_Loan_Transformation.pptx` — full case study deck (20 slides)
+- [GIDI_Bank_Digital_Loan_Transformation.pptx](GIDI_Bank_Digital_Loan_Transformation.pptx) — full case study deck (20 slides)
 
 ## Tools & Skills
 
