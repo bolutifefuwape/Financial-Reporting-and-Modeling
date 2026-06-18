@@ -27,7 +27,7 @@ A portfolio of financial analysis, reporting, and process transformation case st
 | # | Project | Focus | Tools |
 |---|---------|-------|-------|
 | 01 | [BlueWave Logistics – Financial Analysis & Reporting](BlueWaveImages) | Profitability, liquidity, efficiency & solvency analysis for a regional logistics company evaluating a green logistics investment | Excel, Power BI |
-| 02 | [Digital Loan Application Transformation – GIDI Bank](projects/02-gidi-bank-digital-loan-transformation) | Process redesign, MoSCoW-prioritized requirements, RACI, change management, and ROI business case for a digital loan approval platform | PowerPoint |
+| 02 | [Digital Loan Application Transformation – GIDI Bank](02-gidi-bank-digital-loan-transformation) | Process redesign, MoSCoW-prioritized requirements, RACI, change management, and ROI business case for a digital loan approval platform | PowerPoint |
 
 *(More case studies will be added here as they're completed.)*
 
