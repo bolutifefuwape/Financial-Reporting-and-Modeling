@@ -40,6 +40,3 @@ Digitizing the process only works if people actually adopt it, so change managem
 
 PowerPoint, Business Process Analysis, Requirements Prioritization (MoSCoW), Stakeholder Management & RACI, Change Management, KPI Design & Measurement Planning, Cost-Benefit & ROI Analysis, Process Flow Design
 
-## Note on Origin
-
-This case study was extended from a base business analysis training exercise (SyncSkills), with the MoSCoW prioritization, RACI matrix, KPI measurement plan, technical integration architecture, implementation roadmap, cost-benefit/ROI analysis, UAT criteria, and change management framing added independently.
