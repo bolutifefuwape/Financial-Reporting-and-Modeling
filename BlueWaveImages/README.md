@@ -39,9 +39,9 @@ Ratios were calculated and trended in Excel, then the cleaned data and analysis 
 
 ## Power BI Dashboard
 
-![BlueWave Power BI Dashboard – Ratios & Profitability Trends](images/powerbi-dashboard-ratios.png)
+![BlueWave Power BI Dashboard – Ratios & Profitability Trends](powerbi-dashboard-ratios.png)
 
-![BlueWave Power BI Dashboard – Expenses & Balance Sheet](images/powerbi-dashboard-expenses.png)
+![BlueWave Power BI Dashboard – Expenses & Balance Sheet](powerbi-dashboard-expenses.png)
 
 ## Recommendations
 
